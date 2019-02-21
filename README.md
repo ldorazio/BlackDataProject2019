@@ -2,6 +2,11 @@
 Two submissions for the 2019 Black Data Project Contest
 
 # Links to interactive visualizations
+First submission - Leah_Dorazio_BlackLandOwnership.png
+[https://public.tableau.com/profile/leah.dorazio#!/vizhome/BlackDataProject2019/Plate20] (https://public.tableau.com/profile/leah.dorazio#!/vizhome/BlackDataProject2019/Plate20)
+
+Second submission - Leah_Dorazio_BlackPopulationAndLandOwnership
+[https://public.tableau.com/profile/leah.dorazio#!/vizhome/BlackDataProject2019/Plate20_plus] (https://public.tableau.com/profile/leah.dorazio#!/vizhome/BlackDataProject2019/Plate20_plus)
 
 # Data Sources
 - [https://usa.ipums.org/](https://usa.ipums.org/) - 1880 Census data
